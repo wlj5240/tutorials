@@ -40,6 +40,6 @@
     </build>
 	
     <properties>
-        <geode.core>1.6.0</geode.core>
+        <geode.core>1.15.0</geode.core>
     </properties>
 </project>
